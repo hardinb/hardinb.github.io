@@ -37,9 +37,6 @@ interests:
   - Interpersonal Relationships
 
 education:
-  - area: PhD in Psychological and Brain Sciences
-    institution: Washington University in St. Louis
-    date_start: 2023-08-01
   - area: MA in Psychology
     institution: Wake Forest University
     date_start: 2021-08-01
@@ -53,4 +50,4 @@ education:
 
 ## About Me
 
-Ben Hardin is not good at making website.
+I am a PhD student in Psychological and Brain Sciences at Washington University in St. Louis. My research seeks to understand the nature of morally valued character traits (e.g., Honesty, Compassion), addressing questions like: how and when are moral character traits expressed in the context of everyday life? How do these traits influence peoples' lives and relationships? And how can we best measure individual differences in morality? I received my Master's from Wake Forest University in 2023, and my Bachelor's from the University of Mississippi in 2021.
