@@ -31,6 +31,16 @@ sections:
           position: center
           parallax: false
   - block: collection
+    id: research
+    content:
+     title: My Research
+     filters:
+      folders:
+      - research
+    design:
+     view: article-grid
+     columns: 1
+  - block: collection
     id: papers
     content:
       title: Featured Publications
