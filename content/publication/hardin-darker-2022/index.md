@@ -9,6 +9,7 @@ publication_types:
 - article-journal
 publication: '*Personality and Individual Differences*'
 doi: 10.1016/j.paid.2021.111248
+featured: true
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0191886921006279
