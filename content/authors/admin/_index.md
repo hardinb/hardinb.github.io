@@ -39,15 +39,15 @@ interests:
 education:
   - area: PhD in Psychological and Brain Sciences
     institution: Washington University in St. Louis
-    date_start: 2023-08
+    date_start: 2023-08-01
   - area: MA in Psychology
     institution: Wake Forest University
-    date_start: 2021-08
-    date_end: 2023-07
+    date_start: 2021-08-01
+    date_end: 2023-07-01
   - area: BA in Psychology
     institution: University of Mississippi
-    date_start: 2017-08
-    date_end: 2021-05
+    date_start: 2017-08-01
+    date_end: 2021-05-01
     
 ---
 
